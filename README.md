@@ -1,6 +1,6 @@
 # InstaPage
 
-Using XCode 9.3
+Using Xcode 9.3
 
 A laboration in creating an Instagram account like view hierarchy. The Instagram account page consist of a header, tab buttons and some scrollable content view such as collection view or table view. When the user scrolls, the header go up off the screen no matter which tab you're on at the moment.
 
